@@ -50,7 +50,6 @@ public class FormContent extends Parent{
         }
 
         clickFunction(myElement);
-
     }
 
 }
